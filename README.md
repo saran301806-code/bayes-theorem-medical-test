@@ -40,10 +40,3 @@ The bar chart compares the prior probability (1.2%) with the posterior probabili
 ## AI / Machine Learning Connection
 Bayes' theorem is used in Naive Bayes classification, spam filtering, Bayesian neural networks, and probabilistic modelling.
 
-## Repository
-https://github.com/YOUR-USERNAME/bayes-theorem-medical-test
-
-> Replace `YOUR-USERNAME` with your GitHub username after creating the repository.
-
-## Note
-The explanatory markdown in the original notebook contains a decimal-place typo in the false-positive term. The executable code uses the correct value: `0.03 × 0.988 = 0.02964`, giving `P(+) = 0.03984` and a posterior probability of 25.6%.
